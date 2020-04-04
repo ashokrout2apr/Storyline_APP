@@ -1,16 +1,13 @@
 # storyadventureapp
 
-A new Flutter application.
+A Flutter application that lets you choose your own story forward.
 
-## Getting Started
+## DESCRIPTION
 
-This project is a starting point for a Flutter application.
+This is a Choose Your Own adventure game, in which you are given two choices on basis of which the story progresses forward.
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2020-04-04 at 8 15 38 PM](https://user-images.githubusercontent.com/45023388/78453807-d7cc4980-76b1-11ea-8921-a70b9a2af456.jpeg)
+![WhatsApp Image 2020-04-04 at 8 15 38 PM (1)](https://user-images.githubusercontent.com/45023388/78453813-dac73a00-76b1-11ea-9ad3-691651133775.jpeg)
+![WhatsApp Image 2020-04-04 at 8 15 38 PM (2)](https://user-images.githubusercontent.com/45023388/78453821-def35780-76b1-11ea-8a49-89a7004eae8d.jpeg)
